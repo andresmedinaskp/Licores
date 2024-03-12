@@ -166,7 +166,7 @@ container
     height: 100%;
     z-index: 99999;
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: owl nowrap;
     justify-content: center;
     align-items: center;
     background: none repeat scroll 0 0 #ffffff;
@@ -537,6 +537,8 @@ container
     text-transform: uppercase;
     margin-top: 5px;
   }
+
+ 
 
 
 
