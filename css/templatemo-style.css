@@ -13,7 +13,7 @@ http://www.templatemo.com/tm-515-eatery
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
   }
-
+container
 
 
   /*---------------------------------------
@@ -549,12 +549,13 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   #menu .container {
-    width: 100%;
+    width: 90%;
   }
 
   #menu .col-md-4 {
     margin: 0;
-    padding: 0;
+    padding: 20;
+    margin-top: 5%;
   }
 
   .menu-thumb img {
@@ -563,14 +564,14 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .menu-thumb:hover img {
-    transform: scale(1.15);
+    transform: scale(1.115);
   }
 
   #menu .menu-thumb {
     overflow: hidden;
     position: relative;
     cursor: pointer;
-    width: 102%;
+    width: 100%;
   }
 
   .menu-thumb .menu-info {
@@ -598,7 +599,7 @@ http://www.templatemo.com/tm-515-eatery
     line-height: normal;
     display: block;
     margin-top: 10px;
-  }
+  }image
 
   .menu-thumb .menu-info h3,
   .menu-thumb .menu-info p,
